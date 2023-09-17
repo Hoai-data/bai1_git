@@ -8,5 +8,6 @@ namespace bai1_git
 {
     internal class ClassV2
     {
+        public String ID;
     }
 }
